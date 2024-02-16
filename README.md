@@ -13,6 +13,7 @@ Dichiara una variabile chiamata radius e assegnale il valore 8.
 Moltiplica radius x 2 e x PI e assegna il valore a una variabile di nome circle.
 Stampa il valore della variabile circle in console.
 
+
 -Esercizio 3
 Dichiara una variabile chiamata name e
 assegnale il valore "Carlo".
